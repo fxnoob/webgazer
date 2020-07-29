@@ -1,6 +1,6 @@
 {
   "name": "webgazer.js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "WebGazer.js: Scalable Webcam EyeTracking Using User Interactions",
   "license": "MIT",
   "main": "dist/webgazer.commonjs2.js",
