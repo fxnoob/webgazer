@@ -1,6 +1,6 @@
 {
-  "name": "webgazer",
-  "version": "1.0.0",
+  "name": "webgazer.js",
+  "version": "0.0.4",
   "repository": {
     "type": "git",
     "url": "https://github.com/brownhci/WebGazer.git"

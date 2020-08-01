@@ -33,9 +33,8 @@ function createConfig(options) {
     plugins: [
       new webpack.BannerPlugin(bannerString),
     ],
-    devtool: "source-map"
   };
 }
 module.exports = createVariants({
-  target: ['var','commonjs2']
+  target: ['commonjs2']
 }, createConfig);
